@@ -14,7 +14,7 @@ Hello! I’m **Jom Dupaya**, a Computer Engineering student at the **Technologic
 - **📶 Online Status**: Display the user's connection status.
 
 ## 🛠️ Technologies Used  
-- **Programming Language**: TypeScript  
+- **Programming Language**: TypeScript, Javascript
 - **Frameworks**: React Native, Expo  
 - **APIs**: Expo Image Picker, Expo Location  
 
